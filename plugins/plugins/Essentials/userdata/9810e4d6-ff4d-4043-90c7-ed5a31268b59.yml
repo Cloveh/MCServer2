@@ -1,0 +1,21 @@
+lastAccountName: actionjackson04
+timestamps:
+  login: 1584909772097
+  logout: 1584918551490
+  lastteleport: 1584918471860
+ipAddress: 73.63.128.142
+lastlocation:
+  world: world
+  x: 233.46747265756795
+  y: 70.0
+  z: 48.10926553426877
+  yaw: -200.84784
+  pitch: 21.449917
+logoutlocation:
+  world: world
+  x: 153.6178683621358
+  y: 71.0
+  z: -21.69999998807907
+  yaw: 51.299896
+  pitch: 18.29999
+afk: false

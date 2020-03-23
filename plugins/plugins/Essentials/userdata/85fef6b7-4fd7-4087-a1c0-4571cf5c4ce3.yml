@@ -1,0 +1,29 @@
+lastAccountName: ashzone
+timestamps:
+  login: 1584909913065
+  logout: 1584920516889
+  lastteleport: 1584911749874
+ipAddress: 172.16.105.81
+logoutlocation:
+  world: world
+  x: 174.05140065103623
+  y: 84.0
+  z: -29.303738334997266
+  yaw: -341.03174
+  pitch: 34.35068
+lastlocation:
+  world: world
+  x: 89.38681570920188
+  y: 63.0
+  z: -529.676994022991
+  yaw: 31.832703
+  pitch: 27.149832
+homes:
+  home:
+    world: world
+    x: 166.38361526178784
+    y: 65.0
+    z: -33.25319858114789
+    yaw: 273.38824
+    pitch: 24.449728
+afk: false
